@@ -1,3 +1,7 @@
+This is a test project for the issue https://github.com/NativeScript/nativescript-cli/issues/4182
+
+See the `with_fix_applied` branch for the diff to get it working.
+
 # NativeScript Vue Blank Template
 App templates help you jump start your native cross-platform apps with built-in UI elements and best practices. Save time writing boilerplate code over and over again when you create new apps.
 
